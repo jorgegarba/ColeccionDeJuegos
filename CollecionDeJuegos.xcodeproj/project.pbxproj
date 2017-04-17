@@ -60,8 +60,8 @@
 			children = (
 				0138B8411EA2A0FE00474F62 /* AppDelegate.swift */,
 				0138B8431EA2A0FE00474F62 /* ViewController.swift */,
-				0138B8451EA2A0FF00474F62 /* Main.storyboard */,
 				0138B8561EA2E5F800474F62 /* JuegoViewController.swift */,
+				0138B8451EA2A0FF00474F62 /* Main.storyboard */,
 				0138B84B1EA2A0FF00474F62 /* Assets.xcassets */,
 				0138B84D1EA2A0FF00474F62 /* LaunchScreen.storyboard */,
 				0138B8501EA2A0FF00474F62 /* Info.plist */,
@@ -308,6 +308,7 @@
 				0138B8551EA2A0FF00474F62 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
